@@ -1,0 +1,7 @@
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe.config
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.pdb
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.AssemblyReference.cache
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.CoreCompileInputs.cache
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.exe
+D:\3_SEM_LABS\OOP\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.pdb

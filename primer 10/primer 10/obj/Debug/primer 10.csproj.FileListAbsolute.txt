@@ -1,0 +1,7 @@
+D:\3_SEM_LABS\OOP\primer 10\primer 10\bin\Debug\primer 10.exe.config
+D:\3_SEM_LABS\OOP\primer 10\primer 10\bin\Debug\primer 10.exe
+D:\3_SEM_LABS\OOP\primer 10\primer 10\bin\Debug\primer 10.pdb
+D:\3_SEM_LABS\OOP\primer 10\primer 10\obj\Debug\primer 10.csproj.AssemblyReference.cache
+D:\3_SEM_LABS\OOP\primer 10\primer 10\obj\Debug\primer 10.csproj.CoreCompileInputs.cache
+D:\3_SEM_LABS\OOP\primer 10\primer 10\obj\Debug\primer 10.exe
+D:\3_SEM_LABS\OOP\primer 10\primer 10\obj\Debug\primer 10.pdb

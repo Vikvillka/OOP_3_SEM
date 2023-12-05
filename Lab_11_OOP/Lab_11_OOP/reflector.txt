@@ -1,0 +1,32 @@
+-----------------Lab_11_OOP.Airline-----------------
+Ассембли:Lab_11_OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Void .ctor()
+Void .ctor(Int32, System.String, Int32, System.String, System.String, Int32, Int32)
+Void .ctor(Int32, System.String, Int32, Int32, Int32, System.String, System.String)
+Методы:
+get_Destination
+set_Destination
+get_FlightNumber
+set_FlightNumber
+get_PlaneType
+set_PlaneType
+get_DepartureTime
+set_DepartureTime
+get_Day
+set_Day
+Equals
+ToString
+GetHashCode
+ShowStatic
+ModifyFlight
+GetType
+Поля и свойства:
+System.String id
+System.String departureLocation
+System.String Destination
+System.Nullable`1[System.Int32] FlightNumber
+System.String PlaneType
+System.ValueTuple`2[System.Nullable`1[System.Int32],System.Nullable`1[System.Int32]] DepartureTime
+System.String Day
+Интерфейсы:
+

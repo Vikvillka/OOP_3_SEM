@@ -1,0 +1,7 @@
+D:\3_SEM_LABS\OOP\kr1\kr1\bin\Debug\kr1.exe.config
+D:\3_SEM_LABS\OOP\kr1\kr1\bin\Debug\kr1.exe
+D:\3_SEM_LABS\OOP\kr1\kr1\bin\Debug\kr1.pdb
+D:\3_SEM_LABS\OOP\kr1\kr1\obj\Debug\kr1.csproj.AssemblyReference.cache
+D:\3_SEM_LABS\OOP\kr1\kr1\obj\Debug\kr1.csproj.CoreCompileInputs.cache
+D:\3_SEM_LABS\OOP\kr1\kr1\obj\Debug\kr1.exe
+D:\3_SEM_LABS\OOP\kr1\kr1\obj\Debug\kr1.pdb
